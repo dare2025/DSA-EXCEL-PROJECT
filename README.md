@@ -9,3 +9,12 @@ Microsoft Excel
 3. For Data Visualization
 4. Dashboard using pivot table.
 
+   ## Data Cleaning and preparations
+   In the initial phase of the data cleaning and preparations, we preparations, we perform the following;
+   1. Data Loading and Inspection
+   2. Handling missing Variable
+   3. Data cleaning and formatting.
+  
+      ## Data Analysis:
+      
+
